@@ -1,4 +1,5 @@
 import random
+print('Hello World')
 
 a = random.randint(2, 8) # int(input('Give me a number: '))
 
